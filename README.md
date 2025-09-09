@@ -8,6 +8,8 @@
 task -a
 ```
 
+- 学习函数选项模式 (Functional Options Pattern)
+
 # Related Links
 
 - https://github.com/lwmacct
